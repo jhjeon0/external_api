@@ -15,3 +15,7 @@
 
 - [DDG search](https://pypi.org/project/duckduckgo-search/)
 - [Google-custom-search](https://python.langchain.com/v0.2/docs/integrations/tools/google_search/)
+
+# Finance Data Reader
+
+- [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader)
