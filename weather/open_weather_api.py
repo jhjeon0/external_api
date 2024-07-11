@@ -14,9 +14,9 @@ data = json.loads(result.text)
 
 
 print(f"{data['name']}의 날씨입니다.")
-print(f"날씨는 {data["weather"][0]['description']}입니다.")
 
-'''
+"""
+print(f"날씨는 {data["weather"][0]['description']}입니다.")
 data["main"]["temp"]
 data["main"]["feels_like"]
 data["main"]["temp_min"]
@@ -25,4 +25,4 @@ data["main"]["humidity"]
 data["main"]["pressure"]
 data["wind"]["deg"]
 data["wind"]["speed"]
-'''
+"""
